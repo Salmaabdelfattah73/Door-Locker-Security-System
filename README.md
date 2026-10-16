@@ -20,6 +20,11 @@ A password-protected door lock system built on \*\*two ATmega32 microcontrollers
 
 
 
+## 🖼️ Simulation
+
+![Simulation](docs/Simulation.png)
+
+
 \## ⚙️ How It Works
 
 
